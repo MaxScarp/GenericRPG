@@ -18,7 +18,7 @@ GameObject:
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 2147483647
   m_IsActive: 1
 --- !u!4 &471642
 Transform:
@@ -116,8 +116,8 @@ NavMeshObstacle:
   m_GameObject: {fileID: 194926}
   m_Enabled: 1
   serializedVersion: 3
-  m_Shape: 0
-  m_Extents: {x: 1.366, y: 1.039, z: 1.366}
+  m_Shape: 1
+  m_Extents: {x: 0.25, y: 1.039, z: 1.366}
   m_MoveThreshold: 0.1
   m_Carve: 1
   m_CarveOnlyStationary: 1
