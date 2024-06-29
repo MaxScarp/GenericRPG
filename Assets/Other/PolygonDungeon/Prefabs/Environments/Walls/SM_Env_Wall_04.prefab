@@ -120,5 +120,5 @@ NavMeshObstacle:
   m_MoveThreshold: 0.1
   m_Carve: 1
   m_CarveOnlyStationary: 1
-  m_Center: {x: -2.4720001, y: 2.525, z: 0.058000002}
+  m_Center: {x: -2.4720001, y: 2.03, z: 0.058000002}
   m_TimeToStationary: 0.5
